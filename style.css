@@ -1,0 +1,53 @@
+* {
+  background-color: 0;
+  margin: 0;
+  padding: 0;
+  
+}
+
+ body {
+   background-color: #333;
+   color: white;
+   font-style: italic;
+   font-size: 12px;
+   border-radius: border-box;
+   
+ }
+
+header {
+  border-radius: border-box;
+  background-color: yellow;
+  font-size: 26px 0;
+   columns: 50px;
+   padding: 5px;
+   
+  
+}
+
+main{
+  background-size: 2px;
+font-size: 12px;
+}
+
+
+  table, td  {
+ width: 50%;
+ border: 1px solid white;
+ border-collapse: collapse;
+  }
+  
+  
+ td {
+ padding: 10px;
+}
+
+footer {
+  border: 1px;
+  text-align: center;
+  background: grey;
+font-size: 10px
+}
+
+nav {
+  text-align: center;
+}
